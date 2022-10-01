@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BmiApp</string>
+    <string name="painoindeksi">Painoindeksi</string>
+    <string name="paino">Paino</string>
+    <string name="pituus">Pituus</string>
+    <string name="laske_painoindeksi">Laske painoindeksi</string>
+    <string name="_35">35</string>
+</resources>

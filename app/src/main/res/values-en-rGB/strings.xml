@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BmiApp</string>
+    <string name="painoindeksi">Body mass index</string>
+    <string name="paino">Weight</string>
+    <string name="pituus">Height</string>
+    <string name="laske_painoindeksi">Calculate BMI</string>
+    <string name="_35">35</string>
+</resources>
