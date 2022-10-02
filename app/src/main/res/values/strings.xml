@@ -4,5 +4,6 @@
     <string name="paino">Paino</string>
     <string name="pituus">Pituus</string>
     <string name="laske_painoindeksi">Laske painoindeksi</string>
-    <string name="_35">35</string>
+    <string name="converter">Converter</string>
+    <string name="settings">Settings</string>
 </resources>

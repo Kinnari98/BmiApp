@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BmiApp</string>
+    <string name="painoindeksi">Kroppsmasseindex</string>
+    <string name="paino">Tynga</string>
+    <string name="pituus">Längd</string>
+    <string name="laske_painoindeksi">Beräkna BMI</string>
+    <string name="converter">Konverter</string>
+    <string name="settings">inställningar</string>
+</resources>
