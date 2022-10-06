@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void goToSettings(View view) {
-        Intent intent = new Intent(this, Activity2.class);
+        Intent intent = new Intent(this, WeatherActivity.class);
         startActivity( intent);
     }
 

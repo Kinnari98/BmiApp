@@ -6,4 +6,17 @@
     <string name="laske_painoindeksi">Laske painoindeksi</string>
     <string name="converter">Converter</string>
     <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="weather">Weather</string>
+    <string name="back">Back</string>
+    <string name="below_18_5_underweight">Below 18.5: Underweight</string>
+    <string name="index_levels">Index levels</string>
+    <string name="_25_0_29_9_overweight">25.0 - 29.9: Overweight</string>
+    <string name="_30_0_or_above_obesity">30.0 or above: Obesity</string>
+    <string name="_18_5_24_5_healthy_weight">18.5 - 24.5: Healthy weight</string>
+    <string name="tampere">Tampere</string>
+    <string name="hae_s_tiedot">Hae säätiedot</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind">Wind</string>
 </resources>
